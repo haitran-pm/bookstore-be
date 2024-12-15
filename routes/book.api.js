@@ -172,7 +172,7 @@ router.put("/:bookId", (req, res, next) => {
 
 /**
  * params: /
- * description: update a book
+ * description: delete a book
  * query:
  * method: delete
  */
